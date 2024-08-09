@@ -20,11 +20,11 @@ A web browser to view the website
 ## Installation
 Clone the GitHub Project
 ```bash
-  git clone https://github.com/Abdul-Rahman-9040/icaite-website.git
+  git clone https://github.com/Abdul-Rahman-9040/ICAIT.git
 ```
 Move to the project directory:
   ```bash
- cd icaite-website
+ cd ICAIT
 ```
 
 
